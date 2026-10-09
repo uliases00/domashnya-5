@@ -18,7 +18,8 @@ F(x,y)=(3+e^(y-1))/(1+x^2|y-tga|)
 8. **Конец**
 
 ### Блок-схема
-[(https://github.com/uliases00/domashnya-5/blob/main/diagramma5.png)]
+![Блок-схема алгоритма](diagramma5.png) 
+[https://github.com/uliases00/domashnya-5/blob/main/diagramma5.png]
 
 
 ## 2. Реализация программы
