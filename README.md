@@ -24,14 +24,14 @@ F(x,y)=(3+e^(y-1))/(1+x^2|y-tga|)
 
 ## 2. Реализация программы
 
-#define _CRT_SECURE_NO_WARNINGS
-#include <locale.h>
-#include <stdio.h>
-#include <math.h>
+#define _CRT_SECURE_NO_WARNINGS<br>
+#include <locale.h><br>
+#include <stdio.h><br>
+#include <math.h><br>
 
-int main()
-{
-	setlocale(LC_CTYPE, ".UTF-8");
+int main()<br>
+{<br>
+	setlocale(LC_CTYPE, ".UTF-8");<br>
 
 	const double a = 1.0;
 	double x, y;
@@ -49,7 +49,7 @@ int main()
 	printf("F(%.6g, %.6g)=%.6f", x, y, F);
 
 	return 0;
-}
+}<br>
 
 ## 3. Результаты работы программы
 
